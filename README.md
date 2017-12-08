@@ -19,6 +19,7 @@ This App supports the following actions:
 ## Prerequisites
 
 Phantom Platform tested with version 3.0.251
+
 McAfee NSM 9.1.x (will also work with older NSM versions)
 
 ## Configuration
