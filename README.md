@@ -3,6 +3,7 @@
 
 This integration is focusing on the threat intelligence sharing with McAfee NSM and the orchestrations platform Phantom. 
 This App provides the capability to publish Threat Information from Phantom to McAfee NSM. 
+
 This App supports the following actions:
 
 1. **test connectivity** - Validate the asset configuration for connectivity using supplied configuration
@@ -12,6 +13,7 @@ This App supports the following actions:
 ## Component Description
 
 **Phantom** is a community powered security automation and orchestration platform. https://www.phantom.us/
+
 **McAfee NSM** gives visibility and control over all McAfee IPS sensors deployed across the enterprise network. https://www.mcafee.com/us/products/network-security-platform.aspx 
 
 ## Prerequisites
