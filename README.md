@@ -25,13 +25,17 @@ McAfee NSM 9.1.x (will also work with older NSM versions)
 ## Configuration
 Download the Latest release, open the Phantom Platform and and go to Apps. Under Apps click install app and upload the tgz file. 
 
-<img width="1331" alt="screen shot 2017-12-08 at 10 53 01" src="https://user-images.githubusercontent.com/25227268/33760476-035f5b4e-dc06-11e7-971f-5822967b82c1.png">
+<img width="1326" alt="screen shot 2018-01-11 at 12 25 02" src="https://user-images.githubusercontent.com/25227268/34837982-7b9a072e-f6ca-11e7-837f-f39b63d70e65.png">
 
-Configure a new asset and provide an asset name. In the asset settings define the NSM IP address or hostname, username, password and sensor ID.
+Configure a new asset and provide an asset name. In the asset settings define the NSM IP address or hostname, username and password.
 
-<img width="707" alt="screen shot 2017-12-08 at 10 55 01" src="https://user-images.githubusercontent.com/25227268/33760547-434d330c-dc06-11e7-932f-35911cf41813.png">
+<img width="707" alt="screen shot 2018-01-11 at 12 23 18" src="https://user-images.githubusercontent.com/25227268/34837894-3e728556-f6ca-11e7-8a66-c0e57ba33294.png">
 
-Click test connectivity. This action will try to connect to the McAfee NSM.
+If no SensorID is defined click the test connectivity button. The app will recognized that there is no SensorID defined and will get all available SensorIDs.
+
+<img width="888" alt="screen shot 2018-01-11 at 12 20 00" src="https://user-images.githubusercontent.com/25227268/34837752-cc709dc6-f6c9-11e7-8fd9-5565c13b8667.png">
+
+Enter the required SensorID in the configuration save and test the connectivity again.
 
 <img width="915" alt="screen shot 2017-12-08 at 10 56 20" src="https://user-images.githubusercontent.com/25227268/33760587-73cc41f8-dc06-11e7-82b3-44bf3bd09f5d.png">
 
