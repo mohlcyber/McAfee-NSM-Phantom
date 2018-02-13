@@ -2,12 +2,12 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This integration is focusing on the threat intelligence sharing with McAfee NSM and the orchestrations platform Phantom. 
-This App provides the capability to publish Threat Information from Phantom to McAfee NSM. 
+The Phantom NSM App provides the capability to publish and ingest threat information. 
 
 This App supports the following actions:
 
 1. **test connectivity** - validate the asset configuration for connectivity using supplied configuration
-2. **block ip** - quarantine an IP address for a give time
+2. **block ip** - quarantine an IP address for a given time
 3. **unblock ip** - unquarantine an IP address
 4. **on poll** - ingest McAfee NSM Alerts automatically
 
@@ -52,4 +52,4 @@ For alert ingestions go to Ingest settings and poll now. The app will reach out 
 
 ## Summary
 
-With this integration it is possible to integrate McAfee NSM and the orchestration platform Phantom by performing key action for threat containment and response.
+With this integration it is possible to integrate McAfee NSM and the orchestration platform Phantom by performing key action for threat hunting and response.
