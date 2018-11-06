@@ -9,7 +9,8 @@ This App supports the following actions:
 1. **test connectivity** - validate the asset configuration for connectivity using supplied configuration
 2. **block ip** - quarantine an IP address for a given time
 3. **unblock ip** - unquarantine an IP address
-4. **on poll** - ingest McAfee NSM Alerts automatically
+4. **get alert** - Get Alert Details from McAfee NSM
+5. **on poll** - ingest McAfee NSM Alerts automatically
 
 ## Component Description
 
